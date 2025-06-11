@@ -12,7 +12,7 @@ Aku lebih sering mikir daripada ngomong, tapi di balik diamku, banyak ide yang j
 ---
 
 ## 📫 Kontak
-- GitHub: [@kimuranoha](https://github.com/KimuraCoz)
+- GitHub: [@KimuraCoz](https://github.com/KimuraCoz)
 
 ---
 
