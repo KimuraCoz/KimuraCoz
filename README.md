@@ -1,7 +1,6 @@
 # 👋 Kimura Noha
 
-Halo! Aku Kimura dengan nama asli Zulmi Cahya Pratama, pelajar TKJ yang tertarik sama dunia IT, pemikiran dalam, dan realitas alternatif.  
-Aku lebih sering mikir daripada ngomong, tapi di balik diamku, banyak ide yang jalan pelan-pelan.
+Halo! Aku Kimura dengan nama asli Zulmi Cahya Pratama, pelajar TKJ yang tertarik sama dunia IT.
 
 ---
 
