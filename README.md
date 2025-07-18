@@ -1,24 +1,42 @@
-# 👋 Kimura Noha
+## I'm Zulmi Cahya P.
 
-Halo! Aku Kimura dengan nama asli Zulmi Cahya Pratama, pelajar TKJ yang tertarik sama dunia IT.
+A high school student majoring in computer network engineering
 
----
-
-## ⚙️ Fokusku Sekarang
-- Belajar jaringan & troubleshooting
-- Ngulik HTML/CSS, Python, dan tools IT
-
----
-
-## 📫 Kontak
-- GitHub: [@KimuraCoz](https://github.com/KimuraCoz)
-
----
-
-> _"Kadang, diam adalah bentuk terkuat dari keberadaan."_  
+Currently exploring the world of programming, technology, and the unknown.
+My goal is to build something meaningful - even if it starts from small experiments.  
+Sometimes being assisted by AI isn't a problem either. The important thing: keep learning and growing.
 
 
-<!---
-KimuraCoz/KimuraCoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect with me:
+
+![https://www.instagram.com/kimzul1945/](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark)
+![mailto:eazyzxc@gmail.com](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light)
+![https://discord.com/channels/@me](https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=dark)
+
+<a href="mailto:eazyzxc@gmail.com" target="_blank">
+    <img src="img/80634628_p0.jpg" alt="Gmail" />
+</a>
+
+<br>
+
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+## My Projects
+
+1. [L-Projekan e-commerce web (in progress)](https://github.com/L-Projekan/Beranda)
+2. [Pesona Laut Sulawesi Selatan](https://github.com/KimuraCoz/Pesona-Laut-Sulawesi-Selatan---Wisata-Bahari-Terbaik), An assignment from the teacher to create a simple website
+
+## Random things i made
+
+1. [Percobaan HTML and Percobaan HTML 2](https://github.com/KimuraCoz/Percobaan-HTML), An experiment to configure a site using Github Pages
+
+## <center> Thanks for Coming!
+<p>
+  <img src="https://media1.tenor.com/m/ZtuVwa_2f1oAAAAd/kobayashi-san-chi-no-maid-dragon-anime.gif" style="height: 200px; object-fit: cover;" alt="biar imut niru dari dannofficial"/>
+  <img src="https://media1.tenor.com/m/6rf3I6nwaPoAAAAC/pgr-punishing-gray-raven.gif" style="height: 200px; object-fit: cover;" alt="biar imut niru dari dannofficial" />
+</p>
