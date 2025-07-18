@@ -9,8 +9,8 @@ Sometimes being assisted by AI isn't a problem either. The important thing: keep
 
 ### Connect with me:
 
-![https://www.instagram.com/kimzul1945](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark)
-![eazyzxc@gmail.com](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light)
+[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark)](https://www.instagram.com/kimzul1945)
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light)](mailto:eazyzxc@gmail.com)
 ![https://discord.com/users/](https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=dark)
 
 <a href="mailto:eazyzxc@gmail.com" target="_blank">
