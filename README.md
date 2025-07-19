@@ -1,6 +1,7 @@
 ## I'm KimuraCoz
 
 KimuraCoz or call me my real name Zulmi Cahya Pratama
+Live in Makassar City, Indonesian
 
 A vocational school student majoring in computer and network engineering 
 
