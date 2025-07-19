@@ -3,12 +3,13 @@
 KimuraCoz or call me my real name Zulmi Cahya Pratama. <br>
 Live in Makassar City, Indonesian.
 
-A vocational school student majoring in computer and network engineering 
+#### [L-Projekan Account Owner.](https://github.com/L-Projekan)
+A vocational school student majoring in computer and network engineering.
 
 Currently exploring the world of programming, technology, and the unknown.
 My goal is to build something meaningful - even if it starts from small experiments.  
 Sometimes being assisted by AI isn't a problem either. The important thing: keep learning and growing.
-#### [L-Projekan Account Owner.](https://github.com/L-Projekan)
+    
 
 ## Connect with me:
 
