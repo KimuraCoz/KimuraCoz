@@ -1,7 +1,7 @@
 ## I'm KimuraCoz
 
 KimuraCoz or call me my real name Zulmi Cahya Pratama. <br>
-Live in Makassar City, Indonesian.
+Live in Makassar City, South Sulawesi, Indonesian.
 #### [L-Projekan Account Owner.](https://github.com/L-Projekan)
 A vocational school student majoring in computer and network engineering.
 
