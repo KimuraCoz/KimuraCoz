@@ -30,8 +30,8 @@ Sometimes being assisted by AI isn't a problem either. The important thing: keep
 
 ## My Projects
 
-1. [L-Projekan e-commerce web (in progress)](https://github.com/L-Projekan/Beranda)
-2. [Pesona Laut Sulawesi Selatan](https://github.com/KimuraCoz/Pesona-Laut-Sulawesi-Selatan---Wisata-Bahari-Terbaik), An assignment from the teacher to create a simple website
+1. [Pesona Laut Sulawesi Selatan](https://github.com/KimuraCoz/Pesona-Laut-Sulawesi-Selatan---Wisata-Bahari-Terbaik), An assignment from the teacher to create a simple website.
+2. [L-Projekan e-commerce web (in progress)](https://github.com/L-Projekan/Beranda)
 
 ## Random things i made
 
