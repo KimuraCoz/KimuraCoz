@@ -31,7 +31,7 @@ Sometimes being assisted by AI isn't a problem either. The important thing: keep
 ## My Projects
 
 1. [Pesona Laut Sulawesi Selatan](https://github.com/KimuraCoz/Pesona-Laut-Sulawesi-Selatan---Wisata-Bahari-Terbaik), An assignment from the teacher to create a simple website.
-2. [L-Projekan e-commerce web version 1.0]https://github.com/L-Projekan/Beranda), Basic website | HTML, CSS, and JavaScript
+2. [L-Projekan e-commerce web version 1.0](https://github.com/L-Projekan/Beranda), Basic website | HTML, CSS, and JavaScript
 
 ## Random things i made
 
