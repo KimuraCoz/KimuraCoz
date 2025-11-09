@@ -4,11 +4,6 @@ Live in Makassar City, South Sulawesi, Indonesian.
 #### [L-Projekan Account Owner.](https://github.com/L-Projekan)
 A vocational school student majoring in computer and network engineering.
 
-Currently exploring the world of programming, technology, and the unknown.
-My goal is to build something meaningful - even if it starts from small experiments.  
-Sometimes being assisted by AI isn't a problem either. The important thing: keep learning and growing.
-    
-
 ## Connect with me:
 
 [![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark)](https://www.instagram.com/kimzul1945)
