@@ -21,7 +21,7 @@ A vocational school student majoring in computer and network engineering.
 ![image](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-Networking-blue?logo=mikrotik&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-Networking-blue?style=for-the-badge&logo=mikrotik&logoColor=white)
 
 
 ## My Projects
