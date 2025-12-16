@@ -1,6 +1,8 @@
 ## I'm KimuraCoz
-Live in Makassar City, South Sulawesi, Indonesian.
+Live in Makassar City, South Sulawesi, Indonesia.
 A vocational school student majoring in computer and network engineering.
+
+I am passionate about technology, specifically focusing on **Web Development** and **Network Administration**. I enjoy building projects and learning how to manage complex networks using tools like Debian and MikroTik.
 
 ## Connect with me:
 
@@ -8,7 +10,7 @@ A vocational school student majoring in computer and network engineering.
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light)](mailto:eazyzxc@gmail.com)
 
 <a href="mailto:eazyzxc@gmail.com" target="_blank">
-    <img src="img/80634628_p0.jpg" alt="Gmail" />
+    <img src="img/80634628_p0.jpg" alt="Gmail" width="100%" />
 </a>
 
 <br>
@@ -31,8 +33,8 @@ A vocational school student majoring in computer and network engineering.
 
 1. [Percobaan HTML and Percobaan HTML 2](https://github.com/KimuraCoz/Percobaan-HTML), An experiment to configure a site using Github Pages
 
-## <center> Thanks for Coming!
-<p>
+## <center> Thanks for Coming! </center>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://media1.tenor.com/m/ZtuVwa_2f1oAAAAd/kobayashi-san-chi-no-maid-dragon-anime.gif" style="height: 200px; object-fit: cover;" alt="biar imut niru dari dannofficial"/>
   <img src="https://media1.tenor.com/m/6rf3I6nwaPoAAAAC/pgr-punishing-gray-raven.gif" style="height: 200px; object-fit: cover;" alt="biar imut niru dari dannofficial" />
-</p>
+</div>
