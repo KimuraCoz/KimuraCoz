@@ -2,7 +2,7 @@
 Live in Makassar City, South Sulawesi, Indonesia.
 A vocational school student majoring in computer and network engineering.
 
-I am passionate about technology, specifically focusing on **Web Development** and **Network Administration**. I enjoy building projects and learning how to manage complex networks using tools like Debian and MikroTik.
+I am passionate about technology, specifically focusing on **Web Development** and **Network Administration**. I enjoy building projects and learning how to manage complex networks using tools like Linux and MikroTik.
 
 ## Connect with me:
 
@@ -20,7 +20,7 @@ I am passionate about technology, specifically focusing on **Web Development** a
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MikroTik](https://img.shields.io/badge/MikroTik-Networking-blue?style=for-the-badge&logo=mikrotik&logoColor=white)
 
 
