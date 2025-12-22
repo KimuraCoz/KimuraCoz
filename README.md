@@ -27,14 +27,15 @@ I am passionate about technology, specifically focusing on **Web Development** a
 
 ## My Projects
 
-1. [Pesona Laut Sulawesi Selatan](https://github.com/KimuraCoz/Pesona-Laut-Sulawesi-Selatan---Wisata-Bahari-Terbaik), An assignment from the teacher to create a simple website.
-2. [L-Projekan e-commerce web version 1.0](https://github.com/L-Projekan/Beranda), Basic website | HTML, CSS, and JavaScript
-3. [Kimura-Batch-Downloader](https://github.com/KimuraCoz/Kimura-Batch-Downloader), A CLI tool to automate downloading multiple files from a list of URLs efficiently.
-4. [Hotspot-Mikrotik-Web](https://github.com/KimuraCoz/Hotspot-Mikrotik-Web), Custom responsive login page template for MikroTik Hotspot services.
+1. **[Pesona Laut Sulawesi Selatan](https://github.com/KimuraCoz/Pesona-Laut-Sulawesi-Selatan---Wisata-Bahari-Terbaik)**, An assignment from the teacher to create a simple website.
+2. **[L-Projekan e-commerce web version 1.0](https://github.com/L-Projekan/Beranda)**, Basic website | HTML, CSS, and JavaScript
+3. **[Kimura-Batch-Downloader](https://github.com/KimuraCoz/Kimura-Batch-Downloader)**, A CLI tool to automate downloading multiple files from a list of URLs efficiently.
+4. **[Hotspot-Mikrotik-Web](https://github.com/KimuraCoz/Hotspot-Mikrotik-Web)**, Custom responsive login page template for MikroTik Hotspot services.
+5. **[PyPass Gen](https://github.com/KimuraCoz/PyPass-Gen)**, A secure Password Generator with both CLI & GUI modes. | Python |
 
 ## Random things i made
 
-1. [Percobaan HTML and Percobaan HTML 2](https://github.com/KimuraCoz/Percobaan-HTML), An experiment to configure a site using Github Pages
+1. **[Percobaan HTML and Percobaan HTML 2](https://github.com/KimuraCoz/Percobaan-HTML)**, An experiment to configure a site using Github Pages
 
 ## <center> Thanks for Coming! </center>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
