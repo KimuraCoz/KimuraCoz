@@ -1,46 +1,50 @@
-## I'm KimuraCoz
-Live in Makassar City, South Sulawesi, Indonesia.
-A vocational school student majoring in computer and network engineering.
+## Hi, I'm Zulmi Cahya Pratama (KimuraCoz)
+*Informatics Engineering Student @ UMI '26 | Cloud Computing & Infrastructure Enthusiast*
 
-I am passionate about technology, specifically focusing on **Web Development** and **Network Administration**. I enjoy building projects and learning how to manage complex networks using tools like Linux and MikroTik.
+I am a first-year Informatics Engineering student at **Universitas Muslim Indonesia (Class of 2026)**. I am highly passionate about technology, currently shifting my core focus toward **Cloud Computing**, automation, and scalable virtualization.
 
-## Connect with me:
+My journey is backed by a solid foundational background in Computer and Network Engineering from **SMK Negeri 4 Makassar**, along with hands-on experience as a **CCTV & Network Installer Intern**. I love exploring how physical networking principles bridge seamlessly into modern cloud environments.
+<br>
+
+## Tech Stack & Tools
+
+### Cloud Engineer & Architecture
+![Cloud Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,aws,linux,docker,kubernetes,terraform,firebase,vercel)
+
+### Networking & Infrastructure
+![Networking Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,nginx,wireshark,bash,git)
+
+### Development & Automation
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,python)
+
+
+### My Projects
+
+🔹 **[Pesona Laut Sulsel](https://github.com/KimuraCoz/Pesona-Laut-Sulawesi-Selatan---Wisata-Bahari-Terbaik)**
+A simple tourism website assignment.
+*Tech Stack: Web (HTML/CSS)*
+
+🔹 **[L-Projekan E-Commerce](https://github.com/L-Projekan/Beranda)**
+Basic e-commerce website version 1.0.
+*Tech Stack: HTML, CSS, JS*
+
+🔹 **[Kimura-Batch-Downloader](https://github.com/KimuraCoz/Kimura-Batch-Downloader)**
+CLI tool to automate downloading multiple files efficiently.
+*Tech Stack: CLI Tool*
+
+🔹 **[Hotspot-Mikrotik-Web](https://github.com/KimuraCoz/Hotspot-Mikrotik-Web)**
+Custom responsive login page template for MikroTik Hotspot.
+*Tech Stack: MikroTik / Web*
+
+🔹 **[PyPass Gen](https://github.com/KimuraCoz/PyPass-Gen)**
+A secure Password Generator with both CLI & GUI modes.
+*Tech Stack: Python*
+## <center> Connect with me:
+<center>
 
 [![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark)](https://www.instagram.com/kimzul1945)
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light)](mailto:eazyzxc@gmail.com)
-
-<a href="mailto:eazyzxc@gmail.com" target="_blank">
-    <img src="img/80634628_p0.jpg" alt="Gmail" width="100%" />
-</a>
-
-<br>
-
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MikroTik](https://img.shields.io/badge/MikroTik-Networking-blue?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+</center>
 
 
-### 🚀 My Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Pesona Laut Sulsel](https://github.com/KimuraCoz/Pesona-Laut-Sulawesi-Selatan---Wisata-Bahari-Terbaik)** | A simple tourism website assignment. | Web (HTML/CSS) |
-| **[L-Projekan E-Commerce](https://github.com/L-Projekan/Beranda)** | Basic e-commerce website version 1.0. | HTML, CSS, JS |
-| **[Kimura-Batch-Downloader](https://github.com/KimuraCoz/Kimura-Batch-Downloader)** | CLI tool to automate downloading multiple files efficiently. | CLI Tool |
-| **[Hotspot-Mikrotik-Web](https://github.com/KimuraCoz/Hotspot-Mikrotik-Web)** | Custom responsive login page template for MikroTik Hotspot. | MikroTik / Web |
-| **[PyPass Gen](https://github.com/KimuraCoz/PyPass-Gen)** | A secure Password Generator with both CLI & GUI modes. | Python |
-
-## Random things i made
-
-1. **[Percobaan HTML and Percobaan HTML 2](https://github.com/KimuraCoz/Percobaan-HTML)**, An experiment to configure a site using Github Pages
-
-## <center> Thanks for Coming! </center>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://media1.tenor.com/m/ZtuVwa_2f1oAAAAd/kobayashi-san-chi-no-maid-dragon-anime.gif" style="height: 200px; object-fit: cover;" alt="biar imut niru dari dannofficial"/>
-  <img src="https://media1.tenor.com/m/6rf3I6nwaPoAAAAC/pgr-punishing-gray-raven.gif" style="height: 200px; object-fit: cover;" alt="biar imut niru dari dannofficial" />
-</div>
+### <center> Thanks for Coming! </center>
