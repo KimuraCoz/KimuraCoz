@@ -39,6 +39,15 @@ Custom responsive login page template for MikroTik Hotspot.
 🔹 **[PyPass Gen](https://github.com/KimuraCoz/PyPass-Gen)**
 A secure Password Generator with both CLI & GUI modes.
 *Tech Stack: Python*
+
+<details>
+    <summary><h2>My Github Stats</h2></summary>
+    <figure>
+        <img src="https://github-readme-stats.vercel.app/api?username=lelouchfr&hide_border=true&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelouchfr&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
+    </figure>
+</details>
+
 ## <center> Connect with me:
 <center>
 
