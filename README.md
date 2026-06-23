@@ -9,7 +9,7 @@ My journey is backed by a solid foundational background in Computer and Network 
 ## Tech Stack & Tools
 
 ### Cloud Engineer & Architecture
-![Cloud Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,firebase,vercel,linux,docker,terraform,githubactions)
+![Cloud Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,firebase,vercel,linux,docker,terraform,githubactions,virtualbox)
 
 ### Networking & Infrastructure
 ![Networking Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,nginx,wireshark,bash,git)
