@@ -40,14 +40,6 @@ Custom responsive login page template for MikroTik Hotspot.
 A secure Password Generator with both CLI & GUI modes.
 *Tech Stack: Python*
 
-<details>
-    <summary><h2>My Github Stats</h2></summary>
-    <figure>
-        <img src="https://github-readme-stats.vercel.app/api?username=KimuraCoz&hide_border=true&theme=transparent" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuraCoz&layout=compact&hide_border=true&theme=transparent" />
-    </figure>
-</details>
-
 ## <center> Connect with me:
 <center>
 
